@@ -1,0 +1,108 @@
+C:\Users\Ye\Documents\Visual Studio 2017\Projects\task2_bcs\task2_bcs\bin\roslyn\csc.exe
+C:\Users\Ye\Documents\Visual Studio 2017\Projects\task2_bcs\task2_bcs\bin\roslyn\csc.exe.config
+C:\Users\Ye\Documents\Visual Studio 2017\Projects\task2_bcs\task2_bcs\bin\roslyn\csc.rsp
+C:\Users\Ye\Documents\Visual Studio 2017\Projects\task2_bcs\task2_bcs\bin\roslyn\csi.exe
+C:\Users\Ye\Documents\Visual Studio 2017\Projects\task2_bcs\task2_bcs\bin\roslyn\csi.rsp
+C:\Users\Ye\Documents\Visual Studio 2017\Projects\task2_bcs\task2_bcs\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ye\Documents\Visual Studio 2017\Projects\task2_bcs\task2_bcs\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ye\Documents\Visual Studio 2017\Projects\task2_bcs\task2_bcs\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Ye\Documents\Visual Studio 2017\Projects\task2_bcs\task2_bcs\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ye\Documents\Visual Studio 2017\Projects\task2_bcs\task2_bcs\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Ye\Documents\Visual Studio 2017\Projects\task2_bcs\task2_bcs\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ye\Documents\Visual Studio 2017\Projects\task2_bcs\task2_bcs\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ye\Documents\Visual Studio 2017\Projects\task2_bcs\task2_bcs\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Ye\Documents\Visual Studio 2017\Projects\task2_bcs\task2_bcs\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Ye\Documents\Visual Studio 2017\Projects\task2_bcs\task2_bcs\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ye\Documents\Visual Studio 2017\Projects\task2_bcs\task2_bcs\bin\roslyn\System.AppContext.dll
+C:\Users\Ye\Documents\Visual Studio 2017\Projects\task2_bcs\task2_bcs\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ye\Documents\Visual Studio 2017\Projects\task2_bcs\task2_bcs\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Ye\Documents\Visual Studio 2017\Projects\task2_bcs\task2_bcs\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Ye\Documents\Visual Studio 2017\Projects\task2_bcs\task2_bcs\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Ye\Documents\Visual Studio 2017\Projects\task2_bcs\task2_bcs\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ye\Documents\Visual Studio 2017\Projects\task2_bcs\task2_bcs\bin\roslyn\vbc.exe
+C:\Users\Ye\Documents\Visual Studio 2017\Projects\task2_bcs\task2_bcs\bin\roslyn\vbc.exe.config
+C:\Users\Ye\Documents\Visual Studio 2017\Projects\task2_bcs\task2_bcs\bin\roslyn\vbc.rsp
+C:\Users\Ye\Documents\Visual Studio 2017\Projects\task2_bcs\task2_bcs\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ye\Documents\Visual Studio 2017\Projects\task2_bcs\task2_bcs\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ye\Documents\Visual Studio 2017\Projects\task2_bcs\task2_bcs\bin\task2_bcs.dll.config
+C:\Users\Ye\Documents\Visual Studio 2017\Projects\task2_bcs\task2_bcs\bin\task2_bcs.dll
+C:\Users\Ye\Documents\Visual Studio 2017\Projects\task2_bcs\task2_bcs\bin\task2_bcs.pdb
+C:\Users\Ye\Documents\Visual Studio 2017\Projects\task2_bcs\task2_bcs\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ye\Documents\Visual Studio 2017\Projects\task2_bcs\task2_bcs\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ye\Documents\Visual Studio 2017\Projects\task2_bcs\task2_bcs\bin\System.Web.Helpers.dll
+C:\Users\Ye\Documents\Visual Studio 2017\Projects\task2_bcs\task2_bcs\bin\System.Web.Mvc.dll
+C:\Users\Ye\Documents\Visual Studio 2017\Projects\task2_bcs\task2_bcs\bin\System.Web.Razor.dll
+C:\Users\Ye\Documents\Visual Studio 2017\Projects\task2_bcs\task2_bcs\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Ye\Documents\Visual Studio 2017\Projects\task2_bcs\task2_bcs\bin\System.Web.Webpages.dll
+C:\Users\Ye\Documents\Visual Studio 2017\Projects\task2_bcs\task2_bcs\bin\System.Web.Webpages.Razor.dll
+C:\Users\Ye\Documents\Visual Studio 2017\Projects\task2_bcs\task2_bcs\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ye\Documents\Visual Studio 2017\Projects\task2_bcs\task2_bcs\bin\System.Web.Razor.xml
+C:\Users\Ye\Documents\Visual Studio 2017\Projects\task2_bcs\task2_bcs\bin\System.Web.Webpages.xml
+C:\Users\Ye\Documents\Visual Studio 2017\Projects\task2_bcs\task2_bcs\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Ye\Documents\Visual Studio 2017\Projects\task2_bcs\task2_bcs\bin\System.Web.Webpages.Razor.xml
+C:\Users\Ye\Documents\Visual Studio 2017\Projects\task2_bcs\task2_bcs\bin\System.Web.Helpers.xml
+C:\Users\Ye\Documents\Visual Studio 2017\Projects\task2_bcs\task2_bcs\bin\System.Web.Mvc.xml
+C:\Users\Ye\Documents\Visual Studio 2017\Projects\task2_bcs\task2_bcs\bin\ru\System.Web.Razor.resources.dll
+C:\Users\Ye\Documents\Visual Studio 2017\Projects\task2_bcs\task2_bcs\bin\ru\System.Web.Webpages.resources.dll
+C:\Users\Ye\Documents\Visual Studio 2017\Projects\task2_bcs\task2_bcs\bin\ru\System.Web.Webpages.Deployment.resources.dll
+C:\Users\Ye\Documents\Visual Studio 2017\Projects\task2_bcs\task2_bcs\bin\ru\System.Web.Webpages.Razor.resources.dll
+C:\Users\Ye\Documents\Visual Studio 2017\Projects\task2_bcs\task2_bcs\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\Ye\Documents\Visual Studio 2017\Projects\task2_bcs\task2_bcs\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\Ye\Documents\Visual Studio 2017\Projects\task2_bcs\task2_bcs\obj\Release\task2_bcs.csproj.CoreCompileInputs.cache
+C:\Users\Ye\Documents\Visual Studio 2017\Projects\task2_bcs\task2_bcs\obj\Release\task2_bcs.dll
+C:\Users\Ye\Documents\Visual Studio 2017\Projects\task2_bcs\task2_bcs\obj\Release\task2_bcs.pdb
+C:\Users\Ye\Documents\Visual Studio 2017\Projects\task2_bcs\task2_bcs\obj\Release\task2_bcs.csprojResolveAssemblyReference.cache
+C:\Users\Ye\Desktop\tsk_bcs\task2_bcs\task2_bcs\bin\roslyn\csc.exe
+C:\Users\Ye\Desktop\tsk_bcs\task2_bcs\task2_bcs\bin\roslyn\csc.exe.config
+C:\Users\Ye\Desktop\tsk_bcs\task2_bcs\task2_bcs\bin\roslyn\csc.rsp
+C:\Users\Ye\Desktop\tsk_bcs\task2_bcs\task2_bcs\bin\roslyn\csi.exe
+C:\Users\Ye\Desktop\tsk_bcs\task2_bcs\task2_bcs\bin\roslyn\csi.rsp
+C:\Users\Ye\Desktop\tsk_bcs\task2_bcs\task2_bcs\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ye\Desktop\tsk_bcs\task2_bcs\task2_bcs\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ye\Desktop\tsk_bcs\task2_bcs\task2_bcs\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Ye\Desktop\tsk_bcs\task2_bcs\task2_bcs\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ye\Desktop\tsk_bcs\task2_bcs\task2_bcs\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Ye\Desktop\tsk_bcs\task2_bcs\task2_bcs\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ye\Desktop\tsk_bcs\task2_bcs\task2_bcs\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ye\Desktop\tsk_bcs\task2_bcs\task2_bcs\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Ye\Desktop\tsk_bcs\task2_bcs\task2_bcs\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Ye\Desktop\tsk_bcs\task2_bcs\task2_bcs\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ye\Desktop\tsk_bcs\task2_bcs\task2_bcs\bin\roslyn\System.AppContext.dll
+C:\Users\Ye\Desktop\tsk_bcs\task2_bcs\task2_bcs\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ye\Desktop\tsk_bcs\task2_bcs\task2_bcs\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Ye\Desktop\tsk_bcs\task2_bcs\task2_bcs\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Ye\Desktop\tsk_bcs\task2_bcs\task2_bcs\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Ye\Desktop\tsk_bcs\task2_bcs\task2_bcs\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ye\Desktop\tsk_bcs\task2_bcs\task2_bcs\bin\roslyn\vbc.exe
+C:\Users\Ye\Desktop\tsk_bcs\task2_bcs\task2_bcs\bin\roslyn\vbc.exe.config
+C:\Users\Ye\Desktop\tsk_bcs\task2_bcs\task2_bcs\bin\roslyn\vbc.rsp
+C:\Users\Ye\Desktop\tsk_bcs\task2_bcs\task2_bcs\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ye\Desktop\tsk_bcs\task2_bcs\task2_bcs\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ye\Desktop\tsk_bcs\task2_bcs\task2_bcs\bin\task2_bcs.dll.config
+C:\Users\Ye\Desktop\tsk_bcs\task2_bcs\task2_bcs\bin\task2_bcs.dll
+C:\Users\Ye\Desktop\tsk_bcs\task2_bcs\task2_bcs\bin\task2_bcs.pdb
+C:\Users\Ye\Desktop\tsk_bcs\task2_bcs\task2_bcs\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ye\Desktop\tsk_bcs\task2_bcs\task2_bcs\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ye\Desktop\tsk_bcs\task2_bcs\task2_bcs\bin\System.Web.Helpers.dll
+C:\Users\Ye\Desktop\tsk_bcs\task2_bcs\task2_bcs\bin\System.Web.Mvc.dll
+C:\Users\Ye\Desktop\tsk_bcs\task2_bcs\task2_bcs\bin\System.Web.Razor.dll
+C:\Users\Ye\Desktop\tsk_bcs\task2_bcs\task2_bcs\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Ye\Desktop\tsk_bcs\task2_bcs\task2_bcs\bin\System.Web.Webpages.dll
+C:\Users\Ye\Desktop\tsk_bcs\task2_bcs\task2_bcs\bin\System.Web.Webpages.Razor.dll
+C:\Users\Ye\Desktop\tsk_bcs\task2_bcs\task2_bcs\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ye\Desktop\tsk_bcs\task2_bcs\task2_bcs\bin\System.Web.Razor.xml
+C:\Users\Ye\Desktop\tsk_bcs\task2_bcs\task2_bcs\bin\System.Web.Webpages.xml
+C:\Users\Ye\Desktop\tsk_bcs\task2_bcs\task2_bcs\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Ye\Desktop\tsk_bcs\task2_bcs\task2_bcs\bin\System.Web.Webpages.Razor.xml
+C:\Users\Ye\Desktop\tsk_bcs\task2_bcs\task2_bcs\bin\System.Web.Helpers.xml
+C:\Users\Ye\Desktop\tsk_bcs\task2_bcs\task2_bcs\bin\System.Web.Mvc.xml
+C:\Users\Ye\Desktop\tsk_bcs\task2_bcs\task2_bcs\bin\ru\System.Web.Razor.resources.dll
+C:\Users\Ye\Desktop\tsk_bcs\task2_bcs\task2_bcs\bin\ru\System.Web.Webpages.resources.dll
+C:\Users\Ye\Desktop\tsk_bcs\task2_bcs\task2_bcs\bin\ru\System.Web.Webpages.Deployment.resources.dll
+C:\Users\Ye\Desktop\tsk_bcs\task2_bcs\task2_bcs\bin\ru\System.Web.Webpages.Razor.resources.dll
+C:\Users\Ye\Desktop\tsk_bcs\task2_bcs\task2_bcs\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\Ye\Desktop\tsk_bcs\task2_bcs\task2_bcs\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\Ye\Desktop\tsk_bcs\task2_bcs\task2_bcs\obj\Release\task2_bcs.csprojResolveAssemblyReference.cache
+C:\Users\Ye\Desktop\tsk_bcs\task2_bcs\task2_bcs\obj\Release\task2_bcs.csproj.CoreCompileInputs.cache
+C:\Users\Ye\Desktop\tsk_bcs\task2_bcs\task2_bcs\obj\Release\task2_bcs.dll
+C:\Users\Ye\Desktop\tsk_bcs\task2_bcs\task2_bcs\obj\Release\task2_bcs.pdb
